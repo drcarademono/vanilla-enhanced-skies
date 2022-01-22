@@ -519,6 +519,8 @@
         "Assets/Game/Mods/vanilla-enhanced-skies/Textures/Forests/SKY16_1-0.DAT.jpg",
         "Assets/Game/Mods/vanilla-enhanced-skies/Textures/Forests/SKY16_0-27.DAT.jpg",
         "Assets/Game/Mods/vanilla-enhanced-skies/Textures/Forests/SKY16_0-28.DAT.jpg",
-        "Assets/Game/Mods/vanilla-enhanced-skies/Vanilla Enhanced - Skies - Forests.dfmod.json"
+        "Assets/Game/Mods/vanilla-enhanced-skies/Vanilla Enhanced - Skies - Forests.dfmod.json",
+        "Assets/Game/Mods/vanilla-enhanced-skies/Textures/Night/NITE02I0-1.IMG.png",
+        "Assets/Game/Mods/vanilla-enhanced-skies/Textures/Night/NITE02I0-0.IMG.png"
     ]
 }
